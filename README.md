@@ -1,2 +1,2 @@
 # CSQ
-Syllabus Quiz game for JCF Promotion
+Syllabus Quiz game for JCF Promotion-Python version
